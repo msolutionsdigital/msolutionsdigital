@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @msolutionsdigital
 - 👀 https://msolutionsdigital.com/
-office@msolutionsdigital.com
+
+-  👀 office@msolutionsdigital.com
 
 <!---
 msolutionsdigital/msolutionsdigital is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
